@@ -2,3 +2,6 @@ Urządzenie służy do obsługi magistrali CAN za pomocą komputera. WojtexCAN t
 
 WIKI:
 https://github.com/wojtecz/WojtexCAN/wiki/Strona-tytu%C5%82owa
+
+PCB:
+https://github.com/wojtecz/WojtexCAN/wiki/PCB
