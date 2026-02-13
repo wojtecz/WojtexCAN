@@ -6,6 +6,9 @@ https://github.com/wojtecz/WojtexCAN/wiki/Strona-tytu%C5%82owa
 PCB:
 https://github.com/wojtecz/WojtexCAN/wiki/PCB
 
+Struktura danych:
+https://github.com/wojtecz/WojtexCAN/wiki/Struktura-ramki
+
 Do prawidłowego działania wystarczy wgrać kod do mikrokontrolera (kod_na_arduino.ino) i włączyć program z automatycznym wysyłaniem ramek (ProgramWindows1.0.exe) lub program z możliwą zmianą poszczególnych bitów w danej ramce (ProgramWindowsV1.1.exe).
 
 Kod został napisany w Pythonie w całości przez AI. Wersja nieskompilowana znajduje się w plikach z rozszerzeniem .py 
